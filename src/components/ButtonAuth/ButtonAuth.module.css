@@ -1,0 +1,35 @@
+.buttonAuth_container {
+    display: flex;
+    align-items: center;
+}
+.buttonAuth_exit {
+    all: unset;
+    width: 110px;
+    height: 50px;
+    margin: 0.5em;
+    text-align: center;
+
+    border-radius: 7px;
+
+    font-size: large;
+    font-weight: 500;
+
+    transition: all 0.2s ease;
+}
+
+.buttonAuth_exit:hover {
+    outline: 1px solid rgba(255, 106, 0, 0.594);
+    color: rgba(255, 106, 0, 0.594);
+}
+
+.buttonAuth_create {
+    height: 2em;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+    color: rgba(10, 17, 1, 0.559);
+}
+
+.buttonAuth_user {
+    display: flex;
+    align-items: center;
+}

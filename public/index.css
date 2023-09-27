@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    background-color: #EBEEF3;
+
+  }
+  
+  *,
+  *::after,
+  *::before {
+    box-sizing: inherit;
+  }
+
+body {
+    margin: 0;
+  }
