@@ -1,1 +1,1 @@
-[RealWorld Blog](https://blogapp-beige-six.vercel.app).
+[RealWorld Blog](https://blogapp-konstabarb-gmailcom.vercel.app).
