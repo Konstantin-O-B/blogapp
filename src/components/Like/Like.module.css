@@ -1,0 +1,14 @@
+.like__container {
+    display: flex;
+    margin-left: 1em;
+    align-items: center;
+}
+
+.like_button {
+    border: none;
+    transition: all .1s ease-in;
+}
+.like_button:hover {
+    cursor: pointer;
+    scale: 1.1;
+}
